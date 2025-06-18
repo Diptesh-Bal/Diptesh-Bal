@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diptesh Bal</h1>
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Turning Ideas into Scalable Solutions. Building Smart, Scalable, and User-Centric Digital Experiences. Blending Code and Creativity to Solve Real-World Problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diptesh-bal&label=Profile%20views&color=0e75b6&style=flat" alt="diptesh-bal" /> </p>
 
 - 🌱 I’m currently learning **Langchain | LLM Optimization | TypeScript | System Design | Tailwind Animations**
 
