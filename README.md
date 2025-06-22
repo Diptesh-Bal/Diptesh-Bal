@@ -9,13 +9,14 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iuVxwIrmswplQTXqZ5OILw2f18G9VeW3/view?usp=drive_link](https://drive.google.com/file/d/1iuVxwIrmswplQTXqZ5OILw2f18G9VeW3/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/dipteshbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipteshbal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diptesh-bal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptesh-bal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
